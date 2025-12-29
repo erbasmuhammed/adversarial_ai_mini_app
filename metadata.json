@@ -1,0 +1,7 @@
+{
+  "name": "Project Emera",
+  "description": "Educational training module for analyzing adversarial vulnerabilities in autonomous ship computer vision systems.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
